@@ -1,4 +1,4 @@
-thon App with Nginx Reverse Proxy on AWS EC2
+Python App with Nginx Reverse Proxy on AWS EC2
 
 ## Project Overview
 
