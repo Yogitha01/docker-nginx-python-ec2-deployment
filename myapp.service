@@ -1,0 +1,11 @@
+[Unit]
+Description=My Python App
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/ubuntu/ec2-nginx-python-app/app.py
+Restart=always
+User=ubuntu
+
+[Install]
+WantedBy=multi-user.target
