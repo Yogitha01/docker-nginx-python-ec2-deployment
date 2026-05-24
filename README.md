@@ -216,7 +216,7 @@ Browser → Nginx (port 80) → Python App (port 8080)
 ## Setup
 
 ### 1. Clone repo
-git clone https://github.com/Yogitha01/ec2-nginx-python-app.git
+git clone https://github.com/Yogitha01/docker-nginx-python-ec2-deployment.git
 
 ### 2. Run app manually
 python3 app.py
